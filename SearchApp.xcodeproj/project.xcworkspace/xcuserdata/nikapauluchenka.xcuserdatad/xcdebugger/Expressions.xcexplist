@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ApiService.sendRequest(query:):ApiService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "decodedResponse">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ApiViewModel.searchImages(query:):ApiViewModel.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
